@@ -29,7 +29,7 @@ It was deemed appropriate to divide it into 5 clusters using the [WCSS (In-Squar
 
 ![wcss](image/4wcss.png)
 
-*Result of WCSS*
+
 
 >**Result**
 
